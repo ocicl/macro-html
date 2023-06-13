@@ -1,0 +1,10 @@
+* macro-html
+
+macro-html is a HTML generation library. It aims to be fast, modular,   cachable and concise.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/eugeneia/macro-html.git   |
+| commit  | c769b5d  |
+| systems | macro-html |
+|---------+-------------------------------------------|
+
